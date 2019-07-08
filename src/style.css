@@ -10,6 +10,19 @@
   margin:0px;
 }
 
+.contieneResponsive{
+  width: 80%;
+  max-width:1000px;
+  margin:0 auto;
+  overflow:hidden;
+}
+
+@media screen and (max-width:800px){
+    body{
+      background:#ff8000;
+    }
+}
+
 #header{
  margin:auto;
  width:1400px;
@@ -91,7 +104,7 @@ font-family: 'Coiny', cursive;
 }
 
 .lista_de_pokemones{
-  background-color: #D3D3D3;
+    background-color: #D3D3D3;
   height: 600px;
   width: 95%;
   margin: auto;
@@ -103,6 +116,7 @@ font-family: 'Coiny', cursive;
   margin-bottom: 10px;
   margin-top: 10px;
   margin: blue;
+  
 }
 
 #mostrando_lista_pokemones ul{
