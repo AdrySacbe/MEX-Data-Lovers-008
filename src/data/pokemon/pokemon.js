@@ -4087,3 +4087,4 @@ var POKEMON = {
 ;;
 
 window.pikachu = POKEMON;
+
