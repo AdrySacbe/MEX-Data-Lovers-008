@@ -17,12 +17,13 @@
   overflow:hidden;
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width: 800px){
     body{
-      background:#ff8000;
+      background:#8a8784;                                                        
     }
 }
-
+    
+    
 #header{
  margin:auto;
  width:1400px;

@@ -3,7 +3,6 @@
 //Seleccionando a los elementos del HTML con ayuda de su Id.
 const firstButton = document.getElementById("siguiente");
 const buttonAtras = document.getElementById("atras");
-const hamburguesa = document.getElementById("hamburguesa")
 const opciones = document.getElementById("opciones")
 const name = document.getElementById("name");
 const img = document.getElementById("img");
